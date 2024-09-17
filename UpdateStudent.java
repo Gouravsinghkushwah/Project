@@ -8,9 +8,9 @@ public class UpdateStudent {
 	static int totm;
 	static int HM,TM,SM,MM,PM,CM;
 	static float per;
-public static void main(String[] args) {
+public static void main(String[] args) {  
 	int a=10;
-	System.out.println("Sample : 0884DD1810RR");
+	System.out.println("Sample : 0884DD1810RR");  // Sample
 	System.out.println("DD : (CE,EE,EC)\nRR : two digits roll number.");
 	System.out.println("----------------");
 try
